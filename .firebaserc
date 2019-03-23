@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "touriser",
+    "default": "rapid-access-201906"
+  }
+}
